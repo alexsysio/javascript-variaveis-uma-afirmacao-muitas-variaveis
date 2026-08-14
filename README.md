@@ -1,28 +1,21 @@
-### HTML JavaScript | JavaScript Uma afirmação muitas Variaveis
-
-<a href="https://github.com/user-attachments/assets/d79b14d2-881d-4a4a-b801-ba6dbbd218cb" >
-  <img width="100%" alt="html-javascript" src="https://github.com/user-attachments/assets/d79b14d2-881d-4a4a-b801-ba6dbbd218cb"/>
-</a>
-
-&nbsp;
-
-### O que o JavaScript pode fazer? | JavaScript Uma afirmação muitas Variaveis
-
-<a href="https://github.com/user-attachments/assets/85030af3-bcfe-44c1-a25c-cb4df788147e">
-  <img width="100%" alt="uma-afirmacao-muitas-variaveis" src="https://github.com/user-attachments/assets/85030af3-bcfe-44c1-a25c-cb4df788147e"/>
-</a>
-
-&nbsp;
-
-### Uma Afirmação, Muitas Variáveis
 ### Você pode declarar muitas variáveis em uma única sentença.
-### Comece a instrução com ou e separe as variáveis por vírgula: let const
+### Comece a instrução com  let ou const e separe as variáveis por vírgula: 
 ### let person = "John Doe", carName = "Volvo", price = 200;
-
-&nbsp;
-
 ### let person = "John Doe",
 ### carName = "Volvo",
 ### price = 200;
 
+<a href="https://github.com/user-attachments/assets/da0cc4e8-f03e-4376-b81e-5589e9923642" >
+  <img width="100%" alt="html-javascript" src="https://github.com/user-attachments/assets/da0cc4e8-f03e-4376-b81e-5589e9923642"/>
+</a>
+
 &nbsp;
+
+### Resultado
+
+<a href="https://github.com/user-attachments/assets/7ae2d585-e3d5-43a4-9d3b-5cb13dc0beb7">
+  <img width="100%" alt="variaveis" src="https://github.com/user-attachments/assets/7ae2d585-e3d5-43a4-9d3b-5cb13dc0beb7"/>
+</a>
+
+&nbsp;
+
